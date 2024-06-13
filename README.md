@@ -1,7 +1,7 @@
 # Expense tracker web app with local storage integration
 
 <br>
-This project was build using HTM, JavaScript and Bootstrap.
+This project was build using HTML, JavaScript and Bootstrap.
 <br>
 We can add the expenses and can be modify and can be deleted.
 <br>
